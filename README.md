@@ -14,7 +14,7 @@ O blog permite o cadastro de títulos e conteúdos de um post, armazena os dados
 
 # 1. Clonar o Repositório
 
-Baixe o projeto em sua máquina. Se estiver no GitHub, clone o repositório usando: git clone https://github.com/kettaraujo/Blog
+Baixe o projeto em sua máquina. Se estiver no GitHub, clone o repositório usando: git clone https://github.com/kettaraujo/blogb
 
 # 2. Abrir no VS Code
 
