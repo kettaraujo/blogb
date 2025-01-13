@@ -52,7 +52,7 @@ Ainda no terminal, inicie o servidor do Django com o comando:
 
 Django é um framework que eu não tinha muita afinidade, já que não havia realizado projetos utilizando essa tecnologia antes, apenas assisti algumas aulas. Porém, aceitei o desafio e embarquei em uma jornada de aprendizado enriquecedora, mesmo sendo um projeto básico senti que aprendi bastante. Decidi utilizar Django no lugar do Express porque acredito que a linguagem Python, proporciona uma base sólida para projetos robustos e escaláveis.
 
-Para o front-end, optei por HTML, CSS e JavaScript, pois essas tecnologias permitem criar interfaces intuitivas e responsivas para o usuáio, além de serem altamente personalizáveis para atender às necessidades especídicas do projeto.
+Para o front-end, optei por HTML, CSS e JavaScript, pois essas tecnologias permitem criar interfaces simples e intuitivas para o usuáio, além de serem persoalizáveis para atender às necessidades especídicas do projeto.
 
 Como plano de melhorias futuras, pretendo implementar uma tela de login. Com isso, o nome do usuário será exibido como autor dos posts, tornando o sistema mais personalizado. Também planejo incluir a funcionalidade de upload de imagens e permitir que os usuários estilizem suas postagens com cores e backgrounds customizados.
 
